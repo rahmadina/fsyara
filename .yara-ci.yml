@@ -1,0 +1,7 @@
+branches:
+  accept:
+  - "**"
+files:
+  accept:
+  - "**.yar"
+  - "**.yara"
